@@ -1,0 +1,8 @@
+#!/bin/bash
+# Review the DB for tables based on filters, then ignore them from a dump
+
+CLOUD_MYSQL_HOST=XXXXXXXXXX
+CLOUD_MYSQL_USER=XXXXXXXXXX
+CLOUD_MYSQL_PASS=XXXXXXXXXX
+CLOUD_MYSQL_DATABASE=XXXXXXXXXX
+
